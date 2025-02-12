@@ -1,5 +1,9 @@
 # notes
 
+
+## Link to the COMP1238 file
+- [link to comp1238 file](comp1238.md)
+
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
